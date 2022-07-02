@@ -13,12 +13,12 @@
         </div> <!-- End Contact Us 1st Column-->
 
         <div class="col-md-4 stripe text-white text-center">  <!-- Start Contact Us 2nd Column-->
-          <h4>iSchool</h4>
-          <p>iSchool, 
+          <h4>Ui-Learn</h4>
+          <p>Ui-Learn, 
           Near Rudraksh Convention Center Varanasi, 
           Uttar Pradesh - 221010<br /> 
           Phone: +00000000 <br />
-          www.ischool.com </p>
+         </p>
         </div> <!-- End Contact Us 2nd Column-->
       </div> <!-- End Contact Us Row-->
     </div> <!-- End Contact Us Container-->

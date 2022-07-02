@@ -26,7 +26,7 @@
   <body>
      <!-- Start Nagigation -->
     <nav class="navbar navbar-expand-sm navbar-dark pl-5 fixed-top">
-      <a href="index.php" class="navbar-brand">iSchool</a>
+      <a href="index.php" class="navbar-brand">Ui-Learn</a>
       <span class="navbar-text">Learn and Implement</span>
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myMenu">
         <span class="navbar-toggler-icon"></span>
